@@ -1,0 +1,23 @@
+{
+  "data": "mmsi_210253000 (Kattegat/Skagerrak) 2026-09-26 00:15-12:54 real AIS",
+  "n_real_points": 1657,
+  "real_only_flags": 0,
+  "n_shared_injected": 3,
+  "n_rewrite_injected": 1,
+  "heuristic": {
+    "recall_shared": 1.0,
+    "recall_rewrite": 0.0,
+    "precision": 1.0,
+    "tp_shared": 396,
+    "fn_shared": 0,
+    "fp": 0,
+    "n_shared": 396,
+    "n_rewrite": 154
+  },
+  "registry": {
+    "recall_shared": 1.0,
+    "recall_rewrite": 1.0,
+    "precision_shared": 1.0,
+    "precision_rewrite": 1.0
+  }
+}

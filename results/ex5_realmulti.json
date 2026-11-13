@@ -1,0 +1,155 @@
+{
+  "source": "real-noaa.csv (USCG/BOEM/NOAA CC0; first 5000 records of 2024-01-01)",
+  "n_rows": 5000,
+  "n_vessels": 4614,
+  "span": [
+    "2024-01-01 00:00:00",
+    "2024-01-01 00:02:19"
+  ],
+  "vessels_with_2_rows": 386,
+  "position": {
+    "flags_total": 2,
+    "flagged_mmsi": [
+      367373000
+    ]
+  },
+  "identity": {
+    "mmsi_multi_imo": 0,
+    "mmsi_multi_callsign": 0,
+    "mmsi_multi_name": 0,
+    "imo_under_multiple_mmsi": 9,
+    "imo_split_placeholder": 6,
+    "imo_split_genuine_candidates": 3,
+    "split_examples": [
+      {
+        "imo": "IMO0000001",
+        "placeholder": true,
+        "mmsi_list": [
+          366986710,
+          367002070,
+          367002480,
+          367004740,
+          367005920,
+          367079970,
+          367328540,
+          368000390,
+          368018310,
+          368057340,
+          368075180,
+          369970571
+        ],
+        "vessel_name": "VANESSA RAE",
+        "vessel_type": 31.0
+      },
+      {
+        "imo": "IMO0000004",
+        "placeholder": true,
+        "mmsi_list": [
+          366981080,
+          367771510
+        ],
+        "vessel_name": "LONNIE M BELL",
+        "vessel_type": 31.0
+      },
+      {
+        "imo": "IMO0000032",
+        "placeholder": true,
+        "mmsi_list": [
+          367143960,
+          367614030
+        ],
+        "vessel_name": "EMILY D",
+        "vessel_type": 70.0
+      },
+      {
+        "imo": "IMO0000040",
+        "placeholder": true,
+        "mmsi_list": [
+          367373660,
+          368236120
+        ],
+        "vessel_name": "CAPTAIN TOM",
+        "vessel_type": 52.0
+      },
+      {
+        "imo": "IMO0000101",
+        "placeholder": true,
+        "mmsi_list": [
+          366804450,
+          367365210
+        ],
+        "vessel_name": "CROSBY RAMBLER",
+        "vessel_type": 31.0
+      },
+      {
+        "imo": "IMO0000180",
+        "placeholder": true,
+        "mmsi_list": [
+          368021936,
+          368321130
+        ],
+        "vessel_name": "TRUMP IT",
+        "vessel_type": 52.0
+      },
+      {
+        "imo": "IMO7222152",
+        "placeholder": false,
+        "mmsi_list": [
+          367501920,
+          367644590
+        ],
+        "vessel_name": "OLIVIA ROSE",
+        "vessel_type": 31.0
+      },
+      {
+        "imo": "IMO8851273",
+        "placeholder": false,
+        "mmsi_list": [
+          366896250,
+          367456860
+        ],
+        "vessel_name": "SABINE PILOT",
+        "vessel_type": 50.0
+      },
+      {
+        "imo": "IMO9813644",
+        "placeholder": false,
+        "mmsi_list": [
+          368006020,
+          368041830
+        ],
+        "vessel_name": "ROSEMARY MCALLISTER",
+        "vessel_type": 95.0
+      }
+    ],
+    "callsign_under_multiple_mmsi": 0
+  },
+  "cross_ref": {
+    "position_flagged_mmsi": [
+      367373000
+    ],
+    "third_party_flagged_mmsi": [
+      367373000
+    ]
+  },
+  "duplicate": {
+    "exact_duplicates": 0
+  },
+  "coverage": {
+    "imo": 0.573,
+    "call_sign": 0.0902,
+    "vessel_name": 0.001,
+    "length": 0.0166,
+    "width": 0.0266,
+    "draft": 0.3698
+  },
+  "third_party_audit": {
+    "flagged_rows": 1,
+    "issues": [
+      "position_jump|speed_exceeded"
+    ],
+    "flagged_mmsi": [
+      367373000
+    ]
+  }
+}

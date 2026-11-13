@@ -1,0 +1,10 @@
+{
+  "source": "https://noaaocm.blob.core.windows.net/ais/csv2/csv2024/ais-2024-01-01.csv.zst",
+  "date_retrieved": "2026-10-26",
+  "rows": 5000,
+  "selection": "First 5000 complete records, unchanged field values; CSV reserialized",
+  "sha256": "cc7d90b49d0d99071b9341633ec772056d0d3a292dddae115a53d7042b25d7fd",
+  "catalog": "https://catalog.data.gov/dataset/nationwide-automatic-identification-system-2024",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "credit": "USCG Navigation Center, BOEM, NOAA Office for Coastal Management"
+}

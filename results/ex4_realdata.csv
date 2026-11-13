@@ -1,0 +1,6 @@
+metric,value
+data,mmsi_210253000 (Kattegat/Skagerrak) 2026-09-26 00:15-12:54 real AIS
+n_real_points,1657
+real_only_flags,0
+n_shared_injected,3
+n_rewrite_injected,1

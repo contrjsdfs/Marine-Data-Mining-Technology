@@ -1,0 +1,16 @@
+{
+  "clean": {
+    "condition": "clean",
+    "fold_event": 0.0,
+    "over_event": 0.0,
+    "fold_arrival": 0.150418,
+    "over_arrival": 0.150418
+  },
+  "noisy": {
+    "condition": "noisy",
+    "fold_event": 0.0,
+    "over_event": 0.167131,
+    "fold_arrival": 0.222841,
+    "over_arrival": 0.303621
+  }
+}

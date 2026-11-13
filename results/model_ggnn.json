@@ -1,0 +1,233 @@
+{
+  "TEST-A": {
+    "truth_shared": 12,
+    "methods": {
+      "LR": {
+        "auc": 1.0,
+        "f1": 1.0,
+        "ece": 0.001,
+        "shared": [
+          1.0,
+          1.0
+        ]
+      },
+      "GNN-plain": {
+        "auc": 0.999,
+        "f1": 0.963,
+        "ece": 0.065,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "GNN-gate0.5": {
+        "auc": 1.0,
+        "f1": 0.963,
+        "ece": 0.065,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "UF-gate0.5": {
+        "auc": NaN,
+        "f1": 0.993,
+        "ece": NaN,
+        "shared": [
+          0.435,
+          0.833
+        ]
+      },
+      "GNN-gate0.8": {
+        "auc": 1.0,
+        "f1": 0.963,
+        "ece": 0.065,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "UF-gate0.8": {
+        "auc": NaN,
+        "f1": 0.993,
+        "ece": NaN,
+        "shared": [
+          0.435,
+          0.833
+        ]
+      },
+      "GNN-gate0.95": {
+        "auc": 1.0,
+        "f1": 0.963,
+        "ece": 0.065,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "UF-gate0.95": {
+        "auc": NaN,
+        "f1": 0.993,
+        "ece": NaN,
+        "shared": [
+          0.435,
+          0.833
+        ]
+      }
+    }
+  },
+  "TEST-ADV": {
+    "truth_shared": 15,
+    "methods": {
+      "LR": {
+        "auc": 0.998,
+        "f1": 0.996,
+        "ece": 0.006,
+        "shared": [
+          1.0,
+          1.0
+        ]
+      },
+      "GNN-plain": {
+        "auc": 0.987,
+        "f1": 0.948,
+        "ece": 0.091,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "GNN-gate0.5": {
+        "auc": 0.988,
+        "f1": 0.948,
+        "ece": 0.091,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "UF-gate0.5": {
+        "auc": NaN,
+        "f1": 0.975,
+        "ece": NaN,
+        "shared": [
+          0.381,
+          0.533
+        ]
+      },
+      "GNN-gate0.8": {
+        "auc": 0.988,
+        "f1": 0.948,
+        "ece": 0.091,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "UF-gate0.8": {
+        "auc": NaN,
+        "f1": 0.975,
+        "ece": NaN,
+        "shared": [
+          0.381,
+          0.533
+        ]
+      },
+      "GNN-gate0.95": {
+        "auc": 0.989,
+        "f1": 0.948,
+        "ece": 0.091,
+        "shared": [
+          0,
+          0.0
+        ]
+      },
+      "UF-gate0.95": {
+        "auc": NaN,
+        "f1": 0.975,
+        "ece": NaN,
+        "shared": [
+          0.381,
+          0.533
+        ]
+      }
+    }
+  },
+  "TEST-CLEAN": {
+    "truth_shared": 0,
+    "methods": {
+      "LR": {
+        "auc": 1.0,
+        "f1": 1.0,
+        "ece": 0.001,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "GNN-plain": {
+        "auc": 1.0,
+        "f1": 1.0,
+        "ece": 0.007,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "GNN-gate0.5": {
+        "auc": 1.0,
+        "f1": 1.0,
+        "ece": 0.007,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "UF-gate0.5": {
+        "auc": NaN,
+        "f1": 1.0,
+        "ece": NaN,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "GNN-gate0.8": {
+        "auc": 1.0,
+        "f1": 1.0,
+        "ece": 0.007,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "UF-gate0.8": {
+        "auc": NaN,
+        "f1": 1.0,
+        "ece": NaN,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "GNN-gate0.95": {
+        "auc": 1.0,
+        "f1": 1.0,
+        "ece": 0.007,
+        "shared": [
+          0,
+          0
+        ]
+      },
+      "UF-gate0.95": {
+        "auc": NaN,
+        "f1": 1.0,
+        "ece": NaN,
+        "shared": [
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "synthetic": {
+    "CLEAN": {
+      "mmsi_as_entity": {
+        "tp": 5241249.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "cger_within": {
+        "tp": 5241249.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "cger_full": {
+        "tp": 5241249.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "DIRTY": {
+      "mmsi_as_entity": {
+        "tp": 5071524.0,
+        "fp": 228232.0,
+        "fn": 180072.0,
+        "precision": 0.956935375892777,
+        "recall": 0.9657109952860045,
+        "f1": 0.9613031581166093
+      },
+      "cger_within": {
+        "tp": 5051015.0,
+        "fp": 69230.0,
+        "fn": 200581.0,
+        "precision": 0.986479162618195,
+        "recall": 0.961805706303379,
+        "f1": 0.9739861997498805
+      },
+      "cger_full": {
+        "tp": 5229541.0,
+        "fp": 69976.0,
+        "fn": 22055.0,
+        "precision": 0.9867957778039017,
+        "recall": 0.9958003243204542,
+        "f1": 0.9912776026567055
+      },
+      "shared_detect": {
+        "heuristic": [
+          1.0,
+          1.0
+        ],
+        "cger_full": [
+          0.833,
+          0.714
+        ],
+        "n_true": 7
+      }
+    }
+  },
+  "real": {
+    "n_rows": 260001,
+    "n_mmsi": 8072,
+    "n_components": 8080,
+    "mmsi_with_gt1_component": 5,
+    "multi_with_jump_lt30km": 0,
+    "worst_examples": [
+      {
+        "mmsi": 1193046,
+        "max_seg_km": 5708.3,
+        "max_seg_kn": 178970.0,
+        "dt_s": 62
+      },
+      {
+        "mmsi": 100000000,
+        "max_seg_km": 960.7,
+        "max_seg_kn": 28295.0,
+        "dt_s": 66
+      },
+      {
+        "mmsi": 367373630,
+        "max_seg_km": 4516.7,
+        "max_seg_kn": 143930.0,
+        "dt_s": 61
+      },
+      {
+        "mmsi": 367495180,
+        "max_seg_km": 4429.7,
+        "max_seg_kn": 59384.0,
+        "dt_s": 145
+      },
+      {
+        "mmsi": 367584740,
+        "max_seg_km": 377.9,
+        "max_seg_kn": 10802.0,
+        "dt_s": 68
+      }
+    ],
+    "components_per_flagged5": {
+      "1193046": 4,
+      "100000000": 3,
+      "367373630": 2,
+      "367495180": 2,
+      "367584740": 2
+    }
+  }
+}

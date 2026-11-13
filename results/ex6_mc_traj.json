@@ -1,0 +1,42 @@
+{
+  "source": "MarineCadastre AIS_2015_01_01 (USCG/BOEM/NOAA, public)",
+  "slice": "2015-01-01 00:00-01:00 UTC (busiest hour of 6M-row scan)",
+  "n_rows": 260001,
+  "n_vessels": 8072,
+  "span": [
+    "2015-01-01 00:00:00",
+    "2015-01-01 00:59:59"
+  ],
+  "median_points_per_vessel": 28.0,
+  "position": {
+    "flagged_minutes": 135,
+    "flagged_mmsi": [
+      1193046,
+      100000000,
+      367373630,
+      367495180,
+      367584740
+    ],
+    "n_flagged_mmsi": 5
+  },
+  "identity": {
+    "mmsi_multi_imo": 0,
+    "mmsi_multi_callsign": 0,
+    "mmsi_multi_name": 0,
+    "imo_under_multiple_mmsi": 0,
+    "imo_split_genuine": 0,
+    "imo_split_placeholder": 0,
+    "callsign_under_multiple_mmsi": 4
+  },
+  "duplicate": {
+    "exact_duplicates": 0,
+    "dup_rate": 0.0
+  },
+  "speed": {
+    "median_kn": 0.06996883255352676,
+    "p999_kn": 32.68973855675701,
+    "max_kn": 178969.78168379382,
+    "over_30kn": 0.0014170659193661706,
+    "over_50kn": 0.0004286922109006903
+  }
+}

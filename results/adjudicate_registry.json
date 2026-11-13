@@ -1,0 +1,2728 @@
+{
+  "candidate_imo": [
+    {
+      "imo": "IMO7222152",
+      "mmsi_candidates": [
+        367501920,
+        367644590
+      ],
+      "records": [
+        {
+          "mmsi": 367644590,
+          "name": "OLIVIA ROSE",
+          "callsign": "WDH7080",
+          "src": "noaa2024",
+          "year": 2024
+        },
+        {
+          "mmsi": 367501920,
+          "name": "MARNE B",
+          "callsign": "WDL3093",
+          "src": "noaa2024",
+          "year": 2024
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366812230,
+          "name": "KIMBERLY JANE",
+          "callsign": "WDA4703",
+          "src": "mc2015",
+          "year": 2015
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    },
+    {
+      "imo": "IMO8851273",
+      "mmsi_candidates": [
+        366896250,
+        367456860
+      ],
+      "records": [
+        {
+          "mmsi": 366896250,
+          "name": "SABINE PILOT",
+          "callsign": "WAK7647",
+          "src": "noaa2024",
+          "year": 2024
+        },
+        {
+          "mmsi": 367456860,
+          "name": "LAKE CHARLES",
+          "callsign": "WDF4884",
+          "src": "noaa2024",
+          "year": 2024
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    },
+    {
+      "imo": "IMO9813644",
+      "mmsi_candidates": [
+        368006020,
+        368041830
+      ],
+      "records": [
+        {
+          "mmsi": 368006020,
+          "name": "ROSEMARY MCALLISTER",
+          "callsign": "WDJ7366",
+          "src": "noaa2024",
+          "year": 2024
+        },
+        {
+          "mmsi": 368041830,
+          "name": "RTA1",
+          "callsign": "WDK3088",
+          "src": "noaa2024",
+          "year": 2024
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    }
+  ],
+  "candidate_callsign": [
+    {
+      "callsign": "WCW6340",
+      "records": [
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048555,
+          "name": "DUTRA DB 24",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338048556,
+          "name": "BEAVER",
+          "callsign": "WCW6340",
+          "src": "mc2015",
+          "year": 2015
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    },
+    {
+      "callsign": "WDF8768",
+      "records": [
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 366963290,
+          "name": "CHARLES B. HOLMAN",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 367498360,
+          "name": "FLOAT PLANT INGRAM",
+          "callsign": "WDF8768",
+          "src": "mc2015",
+          "year": 2015
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    },
+    {
+      "callsign": "WSL5671",
+      "records": [
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "noaa2024",
+          "year": 2024
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338132812,
+          "name": "CAPTAIN MARLON",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 338124433,
+          "name": "RACHAEL",
+          "callsign": "WSL5671",
+          "src": "mc2015",
+          "year": 2015
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    },
+    {
+      "callsign": "WZX4855",
+      "records": [
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 614211000,
+          "name": "MS NANCY C",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        },
+        {
+          "mmsi": 528155000,
+          "name": "GLADYS FORD",
+          "callsign": "WZX4855",
+          "src": "mc2015",
+          "year": 2015
+        }
+      ],
+      "verdict": "CONFLICT (不同船名共用同一标识)"
+    }
+  ],
+  "mmsi_reuse_crosstime": {
+    "mmsi_present_in_both_slices": 1401,
+    "mmsi_with_changed_vessel_name": 155,
+    "changed_frac": 0.1106
+  },
+  "online": {
+    "IMO7222152_fleetmon": "BLOCKED"
+  }
+}

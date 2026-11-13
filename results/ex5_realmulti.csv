@@ -1,0 +1,12 @@
+metric,value
+n_rows,5000
+n_vessels,4614
+span,2024-01-01 00:00:00 -> 2024-01-01 00:02:19
+position_flags_total,2
+mmsi_multi_imo,0
+mmsi_multi_callsign,0
+imo_under_multiple_mmsi,9
+callsign_under_multiple_mmsi,0
+exact_duplicates,0
+missing_imo_frac,0.573
+third_party_flagged_rows,1

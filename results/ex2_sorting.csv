@@ -1,0 +1,3 @@
+condition,fold_event,over_event,fold_arrival,over_arrival
+clean,0.0,0.0,0.150418,0.150418
+noisy,0.0,0.167131,0.222841,0.303621

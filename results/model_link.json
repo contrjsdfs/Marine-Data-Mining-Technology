@@ -1,0 +1,48 @@
+{
+  "TEST-A(DIRTY harsher)": {
+    "true_shared": 12,
+    "heur": "{162, 227, 76, 270, 80, 49, 116, 276, 119, 120, 281, 56}",
+    "cger": "{130, 8, 270, 1785233, 276, 8123671, 162, 173, 49, 8821809, 181, 56, 3409981, 76, 1323726, 2740318, 227, 2134504, 6769778, 116, 6210676, 119, 120}",
+    "motion": {
+      "auc": 1.0,
+      "pair_f1": 1.0,
+      "pair_p": 1.0,
+      "pair_r": 1.0,
+      "ece": 0.0,
+      "shared_p": 1.0,
+      "shared_r": 1.0
+    },
+    "motion+static": {
+      "auc": 1.0,
+      "pair_f1": 1.0,
+      "pair_p": 1.0,
+      "pair_r": 1.0,
+      "ece": 0.0,
+      "shared_p": 1.0,
+      "shared_r": 1.0
+    }
+  },
+  "TEST-B(CLEAN)": {
+    "true_shared": 0,
+    "heur": "set()",
+    "cger": "set()",
+    "motion": {
+      "auc": 1.0,
+      "pair_f1": 1.0,
+      "pair_p": 1.0,
+      "pair_r": 1.0,
+      "ece": 0.001,
+      "shared_p": 0,
+      "shared_r": 0
+    },
+    "motion+static": {
+      "auc": 1.0,
+      "pair_f1": 1.0,
+      "pair_p": 1.0,
+      "pair_r": 1.0,
+      "ece": 0.0,
+      "shared_p": 0,
+      "shared_r": 0
+    }
+  }
+}

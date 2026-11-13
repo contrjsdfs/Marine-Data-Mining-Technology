@@ -1,0 +1,3 @@
+slice,n_entities,n_rows,true_conflict_mmsi,detected_conflict_mmsi,true_merged_entities,true_split_entities,corrupted_trajectories,corrupt_frac,precision,recall
+CLEAN,300,56172,0,0,0,0,0,0.0,,
+DIRTY,300,56228,7,7,14,9,22,0.073333,1.0,1.0

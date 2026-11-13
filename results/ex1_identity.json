@@ -1,0 +1,26 @@
+{
+  "CLEAN": {
+    "n_entities": 300,
+    "n_rows": 56172,
+    "true_conflict_mmsi": 0,
+    "detected_conflict_mmsi": 0,
+    "true_merged_entities": 0,
+    "true_split_entities": 0,
+    "corrupted_trajectories": 0,
+    "corrupt_frac": 0.0,
+    "precision": null,
+    "recall": null
+  },
+  "DIRTY": {
+    "n_entities": 300,
+    "n_rows": 56228,
+    "true_conflict_mmsi": 7,
+    "detected_conflict_mmsi": 7,
+    "true_merged_entities": 14,
+    "true_split_entities": 9,
+    "corrupted_trajectories": 22,
+    "corrupt_frac": 0.07333333333333333,
+    "precision": 1.0,
+    "recall": 1.0
+  }
+}
